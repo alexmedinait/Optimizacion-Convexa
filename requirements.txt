@@ -1,0 +1,5 @@
+gplearn==0.4.1
+graphviz==0.19.1
+matplotlib==3.4.3
+numpy==1.21.2
+scikit_learn==1.0.2
